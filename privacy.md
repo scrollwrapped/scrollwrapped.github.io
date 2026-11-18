@@ -15,7 +15,6 @@ Scroll Wrapped · Last updated 18 November 2026
 
 This app is independent and is not affiliated with, endorsed by, or connected to TikTok or ByteDance.
 
-**Contact**
-Questions about this policy: scrollwrapped@gmail.com
+**Contact about this policy: scrollwrapped@gmail.com**
 
 [Support](./)

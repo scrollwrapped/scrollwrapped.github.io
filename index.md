@@ -1,6 +1,6 @@
 # Scroll Wrapped support
 
-Scroll Wrapped turns the data you download from TikTok into a wrapped recap slideshow of your year: how long you scrolled, how many videos you watched, your busiest days, your scroll personality and more. Everything is worked out on your phone.
+Scroll Wrapped turns the data you download from TikTok into a wrapped slideshow of your year: how long you scrolled, how many videos you watched, your busiest days, your scroll personality and more. Everything is worked out on your phone.
 
 **Contact.** Questions, problems or ideas: scrollwrapped@gmail.com
 

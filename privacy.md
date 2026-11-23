@@ -9,7 +9,7 @@ Scroll Wrapped · Last updated 22 November 2026
 - **Your stats are not saved.** They are worked out on your phone each time you open the app.
 - **We only read what the recap needs.** The app does not read your direct messages, the text of your comments, IP addresses, device details, email, phone number, addresses, or payment details.
 - **Sharing is your choice.** A card leaves the app only when you tap Share or Save. Your searches and username are left off cards unless you switch them on.
-- **One link, to TikTok.** The On repeat slide can open your most rewatched video in TikTok. Nothing happens unless you tap it. Then TikTok opens the video, as it would from any link.
+- **One link, to TikTok.** The on repeat slide can open your most rewatched video in TikTok. Nothing happens unless you tap it. Then TikTok opens the video, as it would from any link.
 - **Tips.** If you choose to leave a tip, the purchase is handled by Apple under Apple's terms and privacy policy. We receive no personal information about you.
 - **Your device.** iOS may collect its own diagnostics depending on your settings. The app does not control or receive them.
 - **Children.** The app is not directed at children and collects no data from anyone.

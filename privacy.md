@@ -18,4 +18,4 @@ This app is independent and is not affiliated with, endorsed by, or connected to
 
 **Contact about this policy: scrollwrapped@gmail.com**
 
-[Support](./)
+[Support](./index.md)
